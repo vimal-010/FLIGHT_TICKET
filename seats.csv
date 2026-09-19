@@ -1,0 +1,1001 @@
+seat_id,flight_id,seat_number,seat_class,seat_price,seat_status
+1,46,1A,Economy,5559.57,Available
+2,298,1A,Economy,4190.76,Booked
+3,953,1A,Economy,4435.02,Booked
+4,154,1A,Economy,5190.79,Booked
+5,934,1A,Economy,4307.19,Booked
+6,606,1A,Economy,4844.96,Booked
+7,27,1A,Premium Economy,8501.83,Booked
+8,109,1A,Economy,5669.57,Booked
+9,624,1A,Premium Economy,8255.24,Booked
+10,217,1A,Business,18632.23,Booked
+11,828,1A,Premium Economy,8826.37,Booked
+12,321,1A,Economy,5160.55,Booked
+13,524,1A,Business,19023.64,Booked
+14,733,1A,Economy,4723.57,Available
+15,800,1A,Business,19472.63,Available
+16,760,1A,Economy,4699.78,Booked
+17,521,1A,Economy,5105.14,Booked
+18,803,1A,Economy,5689.87,Booked
+19,596,1A,Business,16516.76,Booked
+20,730,1A,Economy,4541.45,Booked
+21,353,1A,Economy,5205.01,Booked
+22,963,1A,Economy,5842.33,Booked
+23,221,1A,Premium Economy,8582.19,Available
+24,388,1A,Economy,5079.93,Booked
+25,851,1A,Economy,5342.45,Booked
+26,597,1A,Economy,5143.58,Booked
+27,34,1A,Economy,4362.79,Booked
+28,673,1A,Premium Economy,9851.66,Booked
+29,744,1A,Economy,4237.0,Available
+30,154,1B,Economy,5153.26,Booked
+31,391,1A,Premium Economy,10049.17,Booked
+32,781,1A,Economy,5581.7,Booked
+33,665,1A,Economy,5551.32,Booked
+34,81,1A,Economy,4848.08,Booked
+35,979,1A,Premium Economy,8718.4,Booked
+36,80,1A,Business,15164.87,Available
+37,982,1A,Business,17430.63,Booked
+38,958,1A,Premium Economy,8781.06,Booked
+39,230,1A,Premium Economy,10708.87,Booked
+40,579,1A,Business,14515.28,Booked
+41,516,1A,First,33287.92,Booked
+42,589,1A,Economy,4075.51,Booked
+43,646,1A,Premium Economy,9065.69,Booked
+44,562,1A,Premium Economy,7859.04,Booked
+45,752,1A,Economy,5420.33,Booked
+46,429,1A,Economy,4529.94,Booked
+47,552,1A,Economy,4130.12,Booked
+48,751,1A,Economy,5289.69,Booked
+49,125,1A,Economy,5193.54,Booked
+50,868,1A,Business,19146.54,Available
+51,900,1A,Economy,5059.01,Booked
+52,541,1A,Economy,4889.25,Booked
+53,818,1A,Business,14016.57,Booked
+54,53,1A,Business,14028.97,Available
+55,622,1A,Business,14595.01,Booked
+56,484,1A,Economy,4621.5,Booked
+57,676,1A,Economy,4086.19,Booked
+58,538,1A,Economy,4068.79,Available
+59,533,1A,Economy,4878.63,Booked
+60,452,1A,Business,19159.42,Booked
+61,325,1A,Economy,5275.6,Booked
+62,276,1A,Business,18687.52,Booked
+63,200,1A,Premium Economy,10159.58,Booked
+64,857,1A,Economy,4732.76,Available
+65,590,1A,Economy,4552.13,Booked
+66,301,1A,Economy,4795.17,Available
+67,933,1A,Business,15136.8,Available
+68,250,1A,Economy,5812.7,Booked
+69,337,1A,Economy,4841.28,Available
+70,249,1A,Economy,4689.28,Booked
+71,819,1A,Economy,5440.27,Available
+72,787,1A,Economy,5543.1,Booked
+73,371,1A,Premium Economy,8229.61,Available
+74,237,1A,Business,17011.34,Booked
+75,467,1A,Economy,5073.68,Booked
+76,323,1A,First,30059.16,Booked
+77,767,1A,Economy,5277.63,Available
+78,996,1A,Economy,4665.93,Booked
+79,119,1A,First,31378.05,Available
+80,710,1A,Premium Economy,8564.43,Booked
+81,247,1A,Economy,4429.3,Available
+82,456,1A,Economy,4519.52,Booked
+83,751,1B,Business,16602.18,Available
+84,981,1A,Economy,4905.38,Available
+85,902,1A,Economy,4631.38,Booked
+86,420,1A,Economy,5234.95,Booked
+87,371,1B,Business,15434.23,Booked
+88,82,1A,Economy,4695.99,Booked
+89,361,1A,Business,14452.5,Booked
+90,574,1A,Economy,4656.01,Available
+91,518,1A,Business,14622.67,Booked
+92,79,1A,Economy,4342.94,Booked
+93,937,1A,Economy,5403.68,Booked
+94,371,1C,Economy,5159.9,Available
+95,670,1A,Economy,5300.1,Booked
+96,496,1A,Premium Economy,9260.15,Available
+97,620,1A,Economy,5352.07,Booked
+98,236,1A,Economy,4918.6,Booked
+99,460,1A,Economy,4122.23,Booked
+100,806,1A,Business,14905.82,Booked
+101,429,1B,Business,19061.32,Booked
+102,236,1B,Economy,4816.61,Booked
+103,584,1A,Economy,5089.48,Booked
+104,848,1A,Economy,4345.25,Available
+105,847,1A,Economy,4591.05,Available
+106,129,1A,Economy,5305.74,Booked
+107,948,1A,Economy,5762.69,Booked
+108,551,1A,Economy,4301.19,Available
+109,251,1A,Premium Economy,10331.14,Booked
+110,796,1A,Economy,4212.72,Available
+111,932,1A,Premium Economy,8130.97,Booked
+112,418,1A,Economy,4762.79,Booked
+113,691,1A,Economy,5235.5,Booked
+114,599,1A,Economy,4359.72,Available
+115,682,1A,Economy,4382.27,Available
+116,142,1A,Business,16119.29,Available
+117,621,1A,Premium Economy,8174.07,Booked
+118,267,1A,Economy,5446.1,Booked
+119,815,1A,Economy,4336.79,Available
+120,294,1A,Economy,5039.69,Booked
+121,350,1A,Economy,4432.49,Available
+122,322,1A,Economy,4727.32,Available
+123,121,1A,Economy,4486.94,Booked
+124,84,1A,Business,15825.44,Booked
+125,419,1A,Economy,5733.47,Booked
+126,432,1A,Economy,4638.8,Booked
+127,518,1B,Economy,5264.55,Booked
+128,152,1A,Business,17081.63,Booked
+129,590,1B,Economy,4674.36,Booked
+130,507,1A,Premium Economy,10948.77,Booked
+131,648,1A,Economy,5644.06,Booked
+132,903,1A,Economy,4473.28,Booked
+133,792,1A,Economy,4952.62,Booked
+134,203,1A,Economy,5128.51,Booked
+135,922,1A,Economy,4189.09,Booked
+136,185,1A,Economy,4949.91,Available
+137,898,1A,Economy,4593.49,Available
+138,465,1A,Economy,4741.32,Booked
+139,16,1A,Economy,4321.35,Booked
+140,171,1A,Economy,5265.49,Booked
+141,124,1A,Economy,4519.84,Booked
+142,429,1C,First,27210.6,Available
+143,270,1A,Economy,4981.23,Booked
+144,784,1A,Economy,5501.21,Booked
+145,568,1A,Economy,5368.81,Available
+146,729,1A,Premium Economy,9025.21,Booked
+147,953,1B,Business,14465.3,Booked
+148,482,1A,Economy,4962.55,Booked
+149,761,1A,Premium Economy,7689.4,Booked
+150,104,1A,Premium Economy,9928.66,Available
+151,130,1A,Economy,4148.12,Booked
+152,891,1A,Economy,5385.72,Booked
+153,35,1A,Economy,5502.83,Booked
+154,854,1A,Business,16512.37,Booked
+155,442,1A,Premium Economy,10070.88,Booked
+156,25,1A,Business,19330.62,Booked
+157,707,1A,Economy,4371.91,Available
+158,171,1B,Economy,5417.3,Available
+159,75,1A,Business,13980.05,Booked
+160,136,1A,Economy,5756.76,Booked
+161,528,1A,Premium Economy,8526.64,Booked
+162,888,1A,Economy,5156.14,Booked
+163,543,1A,Business,16109.33,Booked
+164,941,1A,Economy,4121.72,Booked
+165,398,1A,Business,16261.5,Booked
+166,926,1A,Economy,5128.79,Booked
+167,433,1A,Economy,4816.26,Booked
+168,363,1A,Premium Economy,10257.23,Booked
+169,131,1A,Economy,4531.02,Booked
+170,412,1A,Economy,4800.71,Available
+171,714,1A,Economy,4585.83,Booked
+172,571,1A,Economy,4251.03,Booked
+173,248,1A,Premium Economy,9456.31,Booked
+174,730,1B,Economy,4365.42,Booked
+175,301,1B,Economy,4276.9,Booked
+176,122,1A,Economy,4938.21,Booked
+177,345,1A,Business,15572.32,Booked
+178,919,1A,Economy,5161.03,Booked
+179,845,1A,Business,18921.48,Booked
+180,920,1A,Business,18422.91,Booked
+181,345,1B,Economy,4123.15,Booked
+182,606,1B,Economy,4118.92,Booked
+183,624,1B,Economy,5352.86,Booked
+184,632,1A,Business,14106.74,Booked
+185,111,1A,Economy,5355.72,Available
+186,740,1A,Economy,5196.13,Booked
+187,47,1A,Economy,4771.33,Available
+188,76,1A,Economy,5394.18,Booked
+189,757,1A,Premium Economy,10175.13,Booked
+190,943,1A,Economy,5692.22,Available
+191,364,1A,First,34088.82,Available
+192,973,1A,Economy,5840.85,Booked
+193,460,1B,Economy,5020.48,Booked
+194,933,1B,Premium Economy,10010.47,Booked
+195,419,1B,Economy,5082.0,Available
+196,646,1B,Economy,5733.86,Booked
+197,461,1A,Economy,5289.95,Booked
+198,759,1A,Economy,4952.81,Booked
+199,855,1A,Economy,4767.61,Booked
+200,447,1A,Economy,4562.84,Available
+201,297,1A,Economy,4422.85,Available
+202,776,1A,Premium Economy,9884.52,Booked
+203,489,1A,Economy,4882.39,Booked
+204,717,1A,Premium Economy,9808.51,Available
+205,138,1A,Economy,4454.68,Booked
+206,752,1B,Premium Economy,8401.6,Available
+207,188,1A,Economy,5360.7,Booked
+208,742,1A,Economy,4879.16,Booked
+209,785,1A,Economy,5121.42,Booked
+210,604,1A,Economy,4906.09,Available
+211,939,1A,Economy,4667.31,Booked
+212,840,1A,Economy,5530.73,Booked
+213,960,1A,Economy,5587.84,Booked
+214,522,1A,Economy,5008.03,Booked
+215,86,1A,Economy,4752.11,Booked
+216,156,1A,Economy,5239.26,Booked
+217,918,1A,Economy,4191.5,Booked
+218,8,1A,Economy,5822.9,Available
+219,608,1A,Economy,5396.42,Booked
+220,608,1B,Economy,4597.26,Available
+221,379,1A,Premium Economy,9185.1,Booked
+222,691,1B,Economy,4330.62,Booked
+223,665,1B,Economy,5173.68,Booked
+224,465,1B,Economy,4797.71,Booked
+225,389,1A,Premium Economy,10204.72,Booked
+226,329,1A,Economy,5389.29,Booked
+227,450,1A,First,29403.18,Available
+228,181,1A,Economy,4731.17,Booked
+229,521,1B,Business,14240.96,Booked
+230,740,1B,Economy,4430.35,Available
+231,603,1A,Economy,4570.83,Booked
+232,287,1A,Business,18101.25,Booked
+233,968,1A,First,36163.64,Booked
+234,792,1B,Economy,4683.64,Booked
+235,100,1A,Economy,5670.83,Booked
+236,238,1A,Economy,5436.9,Available
+237,305,1A,Economy,5245.62,Booked
+238,506,1A,Premium Economy,9802.62,Booked
+239,350,1B,Economy,4954.15,Booked
+240,50,1A,Economy,4455.18,Booked
+241,578,1A,Economy,5412.29,Available
+242,531,1A,Economy,5714.19,Booked
+243,919,1B,Economy,5622.02,Booked
+244,538,1B,Economy,4056.01,Booked
+245,594,1A,Business,18077.61,Available
+246,521,1C,Premium Economy,9973.4,Booked
+247,865,1A,Economy,5094.28,Booked
+248,951,1A,Economy,4802.89,Available
+249,437,1A,Economy,4102.27,Booked
+250,293,1A,Economy,5147.47,Available
+251,331,1A,Economy,4194.91,Booked
+252,394,1A,Economy,4785.8,Booked
+253,327,1A,Economy,5147.66,Booked
+254,776,1B,Economy,5175.89,Available
+255,183,1A,Premium Economy,10886.28,Booked
+256,977,1A,Economy,5132.42,Booked
+257,147,1A,Premium Economy,8973.75,Booked
+258,43,1A,Economy,4397.46,Booked
+259,834,1A,Business,16246.61,Available
+260,968,1B,Premium Economy,8463.67,Booked
+261,753,1A,Economy,5333.03,Available
+262,904,1A,Economy,4288.77,Available
+263,749,1A,Economy,4105.6,Booked
+264,216,1A,Economy,4876.55,Booked
+265,441,1A,Premium Economy,9158.42,Booked
+266,532,1A,Economy,4368.38,Booked
+267,285,1A,Economy,5204.48,Booked
+268,589,1B,Business,18527.25,Booked
+269,901,1A,Business,18953.27,Booked
+270,631,1A,Economy,5349.68,Available
+271,322,1B,Economy,5397.5,Booked
+272,102,1A,Premium Economy,9031.58,Booked
+273,356,1A,Economy,4896.38,Available
+274,292,1A,Economy,5459.48,Available
+275,170,1A,First,35093.6,Booked
+276,122,1B,Economy,5338.43,Booked
+277,295,1A,Economy,5830.58,Available
+278,281,1A,Premium Economy,9140.97,Booked
+279,499,1A,Business,13858.72,Available
+280,450,1B,Business,18469.85,Booked
+281,230,1B,Premium Economy,7785.68,Booked
+282,907,1A,Economy,5719.3,Available
+283,174,1A,Economy,4842.08,Booked
+284,296,1A,Premium Economy,8002.32,Booked
+285,962,1A,Business,18047.64,Booked
+286,940,1A,Economy,5474.91,Booked
+287,266,1A,Premium Economy,8895.98,Booked
+288,621,1B,Premium Economy,8132.63,Available
+289,772,1A,Economy,4918.66,Available
+290,109,1B,Economy,4644.05,Booked
+291,947,1A,Premium Economy,9208.02,Available
+292,238,1B,Premium Economy,10208.51,Booked
+293,683,1A,Premium Economy,8814.31,Booked
+294,286,1A,Premium Economy,8774.25,Booked
+295,145,1A,Economy,4514.26,Booked
+296,99,1A,Economy,4114.34,Booked
+297,212,1A,Economy,4989.2,Available
+298,566,1A,Economy,5634.31,Booked
+299,859,1A,Economy,5334.85,Booked
+300,521,1D,Economy,5338.51,Booked
+301,773,1A,Economy,4598.53,Booked
+302,173,1A,Premium Economy,9939.15,Booked
+303,29,1A,Economy,5499.36,Booked
+304,613,1A,Economy,5143.41,Booked
+305,925,1A,Business,15043.83,Booked
+306,41,1A,Economy,5581.65,Booked
+307,983,1A,Economy,4317.05,Available
+308,913,1A,Economy,4705.49,Booked
+309,553,1A,Economy,5616.42,Booked
+310,551,1B,Economy,4908.55,Available
+311,819,1B,Business,19334.42,Booked
+312,200,1B,Economy,5106.84,Booked
+313,7,1A,Economy,4992.01,Booked
+314,501,1A,Economy,5716.95,Booked
+315,853,1A,Economy,5617.41,Booked
+316,843,1A,Economy,4921.2,Booked
+317,27,1B,Economy,5253.74,Booked
+318,379,1B,Economy,4454.69,Booked
+319,209,1A,Economy,4320.16,Available
+320,289,1A,Economy,5361.77,Available
+321,965,1A,Economy,4404.5,Booked
+322,971,1A,Economy,5074.93,Booked
+323,585,1A,Economy,4071.96,Available
+324,437,1B,Premium Economy,10434.25,Booked
+325,750,1A,Premium Economy,10703.66,Booked
+326,456,1B,Premium Economy,8886.11,Available
+327,534,1A,Economy,5177.52,Booked
+328,130,1B,First,30883.06,Available
+329,851,1B,Economy,5780.98,Booked
+330,465,1C,Business,16726.37,Booked
+331,303,1A,Economy,5486.25,Available
+332,941,1B,Economy,4991.31,Booked
+333,113,1A,Economy,5485.09,Booked
+334,734,1A,Economy,5735.4,Booked
+335,724,1A,Business,14870.04,Booked
+336,942,1A,Premium Economy,8253.26,Available
+337,866,1A,First,28176.55,Available
+338,123,1A,Economy,5387.6,Booked
+339,456,1C,Premium Economy,10769.39,Booked
+340,911,1A,Business,14295.29,Booked
+341,443,1A,Economy,4423.92,Available
+342,506,1B,Economy,5421.02,Booked
+343,270,1B,Economy,4226.89,Booked
+344,89,1A,Business,13806.5,Booked
+345,886,1A,Premium Economy,7898.39,Booked
+346,141,1A,Economy,4845.42,Booked
+347,286,1B,Economy,4229.78,Booked
+348,750,1B,Economy,5126.93,Booked
+349,685,1A,Economy,4067.28,Booked
+350,120,1A,Economy,5678.98,Booked
+351,992,1A,Premium Economy,9154.98,Booked
+352,363,1B,Economy,5110.09,Booked
+353,823,1A,Economy,5409.98,Booked
+354,81,1B,First,28019.58,Booked
+355,763,1A,Economy,4537.34,Booked
+356,813,1A,Economy,4641.55,Booked
+357,228,1A,Economy,4560.76,Booked
+358,745,1A,Economy,4525.56,Booked
+359,77,1A,Economy,4664.06,Booked
+360,335,1A,Premium Economy,9360.41,Booked
+361,161,1A,Economy,4250.65,Booked
+362,520,1A,Premium Economy,8269.41,Booked
+363,344,1A,Economy,5658.06,Booked
+364,283,1A,Economy,4942.42,Booked
+365,465,1D,Economy,5418.79,Booked
+366,646,1C,Premium Economy,7971.53,Booked
+367,754,1A,Business,15554.59,Booked
+368,526,1A,Premium Economy,10446.7,Booked
+369,689,1A,Economy,4245.68,Booked
+370,796,1B,Economy,4602.96,Booked
+371,76,1B,Economy,5429.56,Booked
+372,724,1B,Economy,5282.54,Booked
+373,705,1A,Business,14761.75,Available
+374,323,1B,Premium Economy,8750.8,Available
+375,914,1A,Economy,4763.23,Booked
+376,947,1B,Economy,4334.3,Booked
+377,40,1A,Premium Economy,8757.32,Available
+378,444,1A,Economy,4902.8,Booked
+379,103,1A,Economy,4800.44,Booked
+380,955,1A,Premium Economy,8427.66,Booked
+381,723,1A,Economy,5731.79,Booked
+382,814,1A,Business,15724.75,Booked
+383,534,1B,Economy,5358.08,Booked
+384,326,1A,Business,15392.08,Available
+385,195,1A,Economy,5063.92,Booked
+386,862,1A,Premium Economy,7669.29,Booked
+387,572,1A,Business,13831.84,Booked
+388,677,1A,Economy,5212.43,Booked
+389,858,1A,Economy,4872.4,Available
+390,899,1A,Economy,5523.36,Available
+391,642,1A,Economy,5241.7,Booked
+392,37,1A,Economy,5548.59,Booked
+393,972,1A,Economy,4819.5,Booked
+394,650,1A,Economy,5054.52,Booked
+395,643,1A,Premium Economy,10361.41,Booked
+396,9,1A,Economy,4842.19,Available
+397,252,1A,Economy,4183.97,Booked
+398,141,1B,Economy,5351.13,Booked
+399,601,1A,Business,17057.64,Booked
+400,386,1A,First,35803.13,Booked
+401,894,1A,Premium Economy,8976.21,Booked
+402,966,1A,First,33112.67,Booked
+403,226,1A,Economy,5826.47,Available
+404,690,1A,Economy,4156.77,Available
+405,201,1A,Economy,4666.85,Booked
+406,272,1A,Economy,4838.62,Booked
+407,482,1B,Economy,4899.31,Available
+408,156,1B,Business,13943.93,Booked
+409,497,1A,First,33403.43,Available
+410,834,1B,Business,18743.7,Booked
+411,192,1A,Economy,5083.36,Booked
+412,752,1C,Economy,4838.87,Booked
+413,509,1A,Economy,5033.85,Booked
+414,290,1A,Premium Economy,9542.69,Booked
+415,135,1A,Business,17637.42,Booked
+416,204,1A,Economy,5435.83,Booked
+417,651,1A,Business,17695.51,Available
+418,897,1A,Premium Economy,10904.48,Booked
+419,91,1A,Economy,5440.87,Booked
+420,974,1A,Premium Economy,8380.36,Available
+421,529,1A,Economy,4459.83,Booked
+422,878,1A,Economy,4408.17,Booked
+423,741,1A,First,28101.09,Booked
+424,768,1A,Economy,5728.83,Available
+425,220,1A,Economy,5206.03,Booked
+426,4,1A,Economy,5500.92,Booked
+427,445,1A,Premium Economy,10477.69,Available
+428,69,1A,Economy,5831.36,Booked
+429,503,1A,Economy,5068.29,Booked
+430,572,1B,First,35949.63,Booked
+431,626,1A,Business,15462.42,Booked
+432,214,1A,Economy,4558.76,Booked
+433,728,1A,Economy,4170.8,Available
+434,183,1B,Economy,4215.86,Booked
+435,40,1B,Economy,4252.2,Booked
+436,429,1D,Economy,4974.3,Available
+437,705,1B,Business,16943.55,Booked
+438,270,1C,Economy,5220.31,Available
+439,629,1A,Economy,4181.55,Booked
+440,390,1A,Premium Economy,10430.37,Available
+441,647,1A,Economy,5650.84,Booked
+442,598,1A,First,26904.7,Booked
+443,241,1A,Economy,4377.01,Booked
+444,654,1A,Economy,4867.28,Booked
+445,358,1A,Premium Economy,10164.16,Booked
+446,496,1B,Business,18836.38,Available
+447,544,1A,Economy,4578.86,Booked
+448,673,1B,Economy,4751.91,Booked
+449,978,1A,Economy,4630.29,Booked
+450,185,1B,Economy,5590.03,Booked
+451,899,1B,Economy,5432.0,Booked
+452,308,1A,Economy,5226.5,Available
+453,861,1A,Economy,5528.74,Booked
+454,238,1C,Business,18859.46,Booked
+455,897,1B,Premium Economy,9611.31,Booked
+456,300,1A,Economy,4316.91,Booked
+457,685,1B,Economy,4231.61,Available
+458,497,1B,Economy,5750.09,Booked
+459,502,1A,Economy,4279.18,Booked
+460,816,1A,Economy,4174.68,Booked
+461,646,1D,Business,19070.79,Booked
+462,402,1A,Premium Economy,8335.78,Booked
+463,613,1B,Economy,5833.81,Booked
+464,366,1A,Economy,5705.78,Available
+465,557,1A,Premium Economy,7742.81,Booked
+466,493,1A,Business,19166.32,Available
+467,303,1B,Economy,5756.42,Booked
+468,99,1B,Economy,5611.56,Booked
+469,225,1A,Business,14751.51,Available
+470,116,1A,Economy,4839.38,Booked
+471,987,1A,Economy,5437.77,Booked
+472,903,1B,Economy,4274.37,Available
+473,919,1C,First,30875.08,Booked
+474,774,1A,Economy,4979.69,Available
+475,783,1A,Economy,4427.35,Booked
+476,295,1B,Business,17943.85,Available
+477,430,1A,Economy,5841.64,Booked
+478,993,1A,Economy,4428.59,Booked
+479,458,1A,Economy,4962.44,Booked
+480,334,1A,Economy,4965.72,Booked
+481,254,1A,Business,13596.87,Available
+482,679,1A,Economy,4806.03,Booked
+483,436,1A,First,26320.74,Booked
+484,119,1B,Economy,4607.97,Booked
+485,181,1B,Economy,5752.69,Available
+486,476,1A,Premium Economy,8429.82,Booked
+487,980,1A,Premium Economy,9861.47,Available
+488,327,1B,Business,18755.65,Booked
+489,677,1B,Economy,5785.62,Booked
+490,117,1A,Premium Economy,10700.93,Booked
+491,356,1B,Economy,5575.35,Booked
+492,714,1B,Economy,4066.69,Booked
+493,408,1A,Economy,4302.4,Booked
+494,722,1A,Economy,4120.18,Booked
+495,132,1A,Economy,4427.69,Booked
+496,793,1A,Premium Economy,8646.49,Booked
+497,904,1B,Economy,5531.85,Booked
+498,496,1C,Economy,4364.35,Booked
+499,861,1B,Economy,4322.48,Booked
+500,825,1A,Business,17512.01,Booked
+501,885,1A,Economy,5714.92,Booked
+502,501,1B,Premium Economy,7751.93,Available
+503,616,1A,Economy,4776.58,Booked
+504,422,1A,Economy,5564.56,Booked
+505,704,1A,Economy,4101.26,Booked
+506,241,1B,Economy,4101.29,Booked
+507,30,1A,Economy,5372.91,Available
+508,298,1B,Economy,4783.78,Booked
+509,275,1A,Economy,5422.5,Available
+510,520,1B,Premium Economy,8227.12,Booked
+511,221,1B,Economy,4677.6,Booked
+512,912,1A,Economy,4805.79,Booked
+513,872,1A,Economy,5793.71,Booked
+514,802,1A,Economy,4797.14,Booked
+515,419,1C,Business,16142.49,Booked
+516,63,1A,Business,18356.55,Booked
+517,576,1A,Economy,4907.24,Booked
+518,791,1A,Business,15041.17,Available
+519,331,1B,Economy,5021.97,Booked
+520,268,1A,First,32686.44,Available
+521,692,1A,Economy,4937.04,Booked
+522,326,1B,Business,16927.44,Booked
+523,422,1B,Economy,4976.52,Booked
+524,401,1A,Business,14355.57,Booked
+525,829,1A,Premium Economy,10176.83,Booked
+526,453,1A,Premium Economy,8609.82,Booked
+527,436,1B,Economy,4499.6,Booked
+528,409,1A,Economy,5364.05,Booked
+529,267,1B,Economy,5328.83,Booked
+530,935,1A,Economy,5113.41,Booked
+531,56,1A,Economy,5827.76,Booked
+532,275,1B,Economy,5669.16,Available
+533,498,1A,Economy,4724.59,Booked
+534,746,1A,Economy,5375.54,Booked
+535,225,1B,Business,17987.62,Booked
+536,348,1A,Premium Economy,9798.39,Available
+537,652,1A,Premium Economy,10980.4,Booked
+538,839,1A,Economy,5192.34,Booked
+539,47,1B,Business,14926.98,Booked
+540,316,1A,Economy,4071.08,Booked
+541,459,1A,Economy,5593.82,Available
+542,420,1B,Economy,5615.15,Booked
+543,227,1A,First,29743.36,Booked
+544,587,1A,First,30275.77,Booked
+545,897,1C,Economy,4841.75,Booked
+546,171,1C,Premium Economy,9878.57,Booked
+547,549,1A,Economy,4657.23,Available
+548,212,1B,First,27286.78,Available
+549,799,1A,Economy,5619.55,Available
+550,641,1A,Premium Economy,9201.47,Available
+551,113,1B,Economy,5591.19,Booked
+552,971,1B,Premium Economy,8543.74,Available
+553,992,1B,Premium Economy,9100.15,Booked
+554,629,1B,Economy,5027.97,Booked
+555,626,1B,Economy,5805.16,Booked
+556,338,1A,Business,14221.67,Booked
+557,133,1A,Premium Economy,8079.42,Booked
+558,620,1B,Economy,4864.62,Booked
+559,553,1B,Economy,5741.19,Booked
+560,21,1A,First,36082.81,Booked
+561,974,1B,Economy,5526.05,Booked
+562,740,1C,Business,16565.43,Booked
+563,22,1A,Economy,5275.03,Available
+564,822,1A,Premium Economy,8325.5,Booked
+565,389,1B,Premium Economy,9436.95,Booked
+566,93,1A,Premium Economy,9563.8,Booked
+567,800,1B,Economy,4134.59,Available
+568,722,1B,Economy,5021.02,Available
+569,342,1A,Premium Economy,11040.39,Booked
+570,935,1B,Economy,4335.75,Booked
+571,362,1A,Premium Economy,9808.68,Available
+572,786,1A,Business,14857.54,Booked
+573,785,1B,Business,17796.52,Booked
+574,567,1A,Economy,5769.23,Booked
+575,65,1A,Economy,4413.95,Booked
+576,671,1A,Economy,5794.46,Booked
+577,51,1A,Economy,4751.59,Booked
+578,532,1B,Economy,4808.28,Booked
+579,216,1B,Economy,4629.46,Booked
+580,371,1D,Premium Economy,8669.98,Booked
+581,549,1B,Economy,5325.01,Booked
+582,204,1B,Premium Economy,8359.77,Booked
+583,161,1B,Premium Economy,9669.55,Available
+584,859,1B,Economy,5409.31,Booked
+585,549,1C,Economy,4915.68,Booked
+586,406,1A,Economy,5799.77,Booked
+587,881,1A,First,36157.48,Available
+588,736,1A,Economy,4337.0,Booked
+589,235,1A,Economy,5114.55,Booked
+590,298,1C,Economy,4680.73,Available
+591,821,1A,Economy,5758.29,Available
+592,166,1A,Economy,4772.59,Booked
+593,933,1C,Premium Economy,9642.16,Available
+594,383,1A,Premium Economy,8349.83,Booked
+595,340,1A,Economy,4545.85,Booked
+596,424,1A,Economy,5196.16,Available
+597,221,1C,Economy,4993.63,Booked
+598,567,1B,Premium Economy,9684.72,Available
+599,751,1C,Economy,4838.89,Booked
+600,255,1A,Business,16747.56,Booked
+601,963,1B,Economy,4326.62,Booked
+602,14,1A,Business,18025.5,Booked
+603,37,1B,Premium Economy,10625.8,Booked
+604,866,1B,Business,13745.83,Booked
+605,21,1B,Business,15032.71,Booked
+606,774,1B,Economy,4816.64,Available
+607,963,1C,Economy,5327.57,Available
+608,540,1A,Business,16423.82,Booked
+609,105,1A,Economy,4991.11,Booked
+610,514,1A,Economy,5367.17,Available
+611,408,1B,First,34888.95,Booked
+612,811,1A,Economy,5579.94,Booked
+613,497,1C,Economy,5312.88,Booked
+614,44,1A,Economy,4151.97,Booked
+615,161,1C,Economy,5435.9,Booked
+616,290,1B,Business,17894.66,Booked
+617,309,1A,Business,17341.59,Booked
+618,25,1B,Economy,5250.56,Booked
+619,236,1C,Economy,4691.99,Booked
+620,647,1B,Economy,5333.57,Booked
+621,791,1B,Economy,5104.41,Booked
+622,705,1C,Economy,4830.78,Booked
+623,254,1B,Economy,5845.14,Booked
+624,35,1B,Business,16427.17,Booked
+625,279,1A,Economy,5068.12,Available
+626,768,1B,Economy,5616.71,Booked
+627,127,1A,Premium Economy,7793.14,Booked
+628,833,1A,Economy,5558.77,Booked
+629,803,1B,Economy,4227.44,Booked
+630,387,1A,Economy,5790.11,Booked
+631,672,1A,Economy,5094.22,Booked
+632,411,1A,Premium Economy,9702.94,Booked
+633,135,1B,Business,17809.73,Booked
+634,838,1A,Economy,5214.76,Available
+635,759,1B,Economy,4879.34,Available
+636,898,1B,Business,13723.66,Booked
+637,277,1A,Economy,5499.4,Booked
+638,883,1A,Premium Economy,9118.11,Booked
+639,87,1A,Business,14796.24,Available
+640,79,1B,Economy,5184.94,Booked
+641,76,1C,Economy,4576.1,Booked
+642,517,1A,Economy,4101.07,Booked
+643,740,1D,Economy,5653.7,Booked
+644,721,1A,Economy,5279.42,Available
+645,781,1B,Economy,5788.06,Booked
+646,751,1D,Economy,5460.68,Booked
+647,426,1A,Economy,5308.39,Booked
+648,21,1C,Economy,5433.5,Booked
+649,16,1B,Economy,5055.26,Booked
+650,761,1B,Business,17389.72,Available
+651,851,1C,Premium Economy,10211.29,Booked
+652,555,1A,Premium Economy,8235.0,Booked
+653,620,1C,Economy,4209.97,Booked
+654,942,1B,Economy,5018.82,Booked
+655,156,1C,Business,19295.42,Booked
+656,98,1A,Economy,4600.5,Available
+657,754,1B,Business,14042.59,Booked
+658,603,1B,Economy,5169.24,Booked
+659,812,1A,Economy,5411.82,Booked
+660,401,1B,Economy,5590.76,Booked
+661,199,1A,Economy,4656.6,Booked
+662,852,1A,Economy,4700.63,Booked
+663,621,1C,Economy,4353.38,Booked
+664,880,1A,Economy,4391.62,Available
+665,320,1A,Economy,4961.01,Available
+666,804,1A,Economy,4583.17,Booked
+667,332,1A,Economy,4370.23,Booked
+668,436,1C,Economy,4186.68,Booked
+669,525,1A,Economy,5331.0,Available
+670,762,1A,Business,17479.14,Booked
+671,24,1A,Business,14374.59,Booked
+672,310,1A,Economy,4686.84,Booked
+673,281,1B,Economy,4743.43,Available
+674,470,1A,Business,17917.69,Booked
+675,208,1A,Business,18290.92,Booked
+676,103,1B,Economy,5797.34,Booked
+677,271,1A,Economy,4454.68,Booked
+678,993,1B,Business,14975.42,Booked
+679,672,1B,Economy,5836.82,Booked
+680,591,1A,Economy,4454.04,Booked
+681,483,1A,Premium Economy,8394.52,Booked
+682,386,1B,Business,16142.14,Available
+683,299,1A,Business,14372.26,Booked
+684,440,1A,Economy,5786.26,Booked
+685,96,1A,Business,16399.64,Available
+686,228,1B,Economy,5051.38,Booked
+687,991,1A,First,27353.08,Booked
+688,417,1A,Economy,4983.43,Booked
+689,575,1A,Economy,5085.82,Booked
+690,286,1C,Business,15822.62,Booked
+691,495,1A,Economy,5484.24,Booked
+692,292,1B,Economy,5493.11,Booked
+693,930,1A,Economy,4706.13,Booked
+694,720,1A,Business,14908.23,Booked
+695,547,1A,Economy,4188.67,Booked
+696,519,1A,Premium Economy,8743.65,Booked
+697,251,1B,Business,17714.61,Booked
+698,392,1A,Premium Economy,9618.46,Available
+699,18,1A,Economy,5701.46,Booked
+700,509,1B,First,33133.56,Booked
+701,746,1B,Economy,4238.65,Booked
+702,404,1A,Business,14866.95,Booked
+703,975,1A,Economy,5313.86,Booked
+704,382,1A,First,34396.07,Booked
+705,782,1A,Economy,4534.44,Booked
+706,560,1A,Business,16261.43,Booked
+707,732,1A,Economy,5113.91,Booked
+708,111,1B,Economy,5842.42,Booked
+709,464,1A,Economy,4857.24,Booked
+710,230,1C,Premium Economy,10695.86,Booked
+711,592,1A,Economy,5321.36,Available
+712,999,1A,Economy,4687.94,Booked
+713,26,1A,First,28292.21,Booked
+714,407,1A,Economy,5663.75,Booked
+715,790,1A,Economy,5125.93,Booked
+716,238,1D,Economy,5425.86,Booked
+717,458,1B,Economy,4763.24,Available
+718,379,1C,Premium Economy,8703.41,Available
+719,489,1B,Premium Economy,8685.85,Available
+720,577,1A,Economy,5487.15,Booked
+721,112,1A,Economy,4782.86,Booked
+722,659,1A,Premium Economy,10982.61,Booked
+723,319,1A,Economy,5602.92,Booked
+724,341,1A,First,25793.27,Booked
+725,148,1A,Premium Economy,9647.32,Available
+726,830,1A,Premium Economy,7891.45,Booked
+727,646,1E,Economy,4794.68,Booked
+728,1000,1A,Economy,4400.31,Booked
+729,86,1B,First,33865.82,Booked
+730,98,1B,First,34560.28,Available
+731,575,1B,Economy,5721.89,Booked
+732,174,1B,Premium Economy,8778.09,Booked
+733,213,1A,Economy,4776.4,Booked
+734,886,1B,Premium Economy,9980.2,Available
+735,965,1B,Business,15787.74,Booked
+736,502,1B,Economy,5575.08,Booked
+737,608,1C,Economy,4610.15,Available
+738,256,1A,Economy,4824.65,Booked
+739,86,1C,Economy,4213.32,Booked
+740,145,1B,Economy,4411.09,Booked
+741,413,1A,Economy,5215.01,Booked
+742,632,1B,Economy,4863.11,Available
+743,859,1C,Economy,4513.98,Booked
+744,485,1A,Business,13865.41,Booked
+745,536,1A,Economy,5278.88,Booked
+746,741,1B,Economy,4053.11,Booked
+747,860,1A,First,25340.88,Booked
+748,581,1A,Economy,4601.27,Booked
+749,779,1A,Business,16908.47,Booked
+750,239,1A,Economy,4174.9,Booked
+751,61,1A,Economy,5195.67,Booked
+752,786,1B,Economy,5013.39,Booked
+753,506,1C,First,26286.02,Booked
+754,259,1A,Premium Economy,8175.88,Booked
+755,422,1C,Economy,4368.47,Booked
+756,319,1B,Economy,5572.75,Available
+757,759,1C,Premium Economy,9374.92,Booked
+758,346,1A,Business,16170.64,Booked
+759,855,1B,Economy,5733.53,Available
+760,155,1A,Business,18261.88,Booked
+761,38,1A,Economy,5731.65,Booked
+762,330,1A,Business,14146.65,Booked
+763,706,1A,Premium Economy,9656.36,Booked
+764,579,1B,Economy,4229.5,Booked
+765,614,1A,Economy,4329.45,Booked
+766,417,1B,Economy,4657.31,Booked
+767,893,1A,Economy,5235.28,Booked
+768,6,1A,Business,18204.38,Available
+769,275,1C,Business,17512.23,Booked
+770,707,1B,Economy,4493.2,Booked
+771,215,1A,Economy,5778.7,Booked
+772,774,1C,Economy,5479.3,Booked
+773,576,1B,Economy,4155.52,Booked
+774,814,1B,First,30580.74,Booked
+775,501,1C,Business,17457.96,Booked
+776,559,1A,Premium Economy,9659.85,Booked
+777,512,1A,Business,14045.72,Available
+778,321,1B,Premium Economy,10750.35,Booked
+779,983,1B,Economy,5313.97,Booked
+780,668,1A,Economy,5412.46,Available
+781,242,1A,Economy,4558.61,Booked
+782,330,1B,Economy,5424.34,Booked
+783,473,1A,Economy,5177.41,Available
+784,726,1A,Economy,4728.72,Booked
+785,495,1B,Economy,4934.23,Booked
+786,527,1A,Economy,4921.39,Booked
+787,569,1A,Economy,4945.71,Available
+788,880,1B,Premium Economy,8626.46,Booked
+789,758,1A,Premium Economy,7837.39,Booked
+790,751,1E,Business,14628.47,Booked
+791,84,1B,Economy,5655.77,Booked
+792,944,1A,Premium Economy,9592.33,Booked
+793,108,1A,Economy,4614.58,Booked
+794,436,1D,Economy,4100.33,Available
+795,717,1B,First,29510.9,Booked
+796,80,1B,Economy,5017.97,Available
+797,385,1A,Business,17604.99,Available
+798,131,1B,Economy,4965.07,Available
+799,776,1C,Business,16552.47,Booked
+800,14,1B,Premium Economy,7802.05,Booked
+801,166,1B,Economy,4873.02,Booked
+802,533,1B,Economy,4448.82,Booked
+803,767,1B,Economy,5335.26,Booked
+804,125,1B,Economy,5078.06,Booked
+805,171,1D,Economy,4131.42,Booked
+806,203,1B,Economy,5670.58,Available
+807,449,1A,Economy,4572.8,Booked
+808,891,1B,Business,17457.57,Booked
+809,996,1B,Business,15484.5,Booked
+810,117,1B,Economy,4751.85,Booked
+811,40,1C,Economy,5701.65,Booked
+812,907,1B,Economy,4330.67,Booked
+813,435,1A,Economy,5169.17,Booked
+814,508,1A,Economy,5709.92,Booked
+815,175,1A,Premium Economy,10064.59,Booked
+816,642,1B,Business,15358.44,Booked
+817,823,1B,Business,17420.02,Booked
+818,538,1C,Business,15955.22,Booked
+819,499,1B,Economy,5532.4,Booked
+820,144,1A,Economy,5566.74,Booked
+821,767,1C,Economy,5452.61,Booked
+822,896,1A,Economy,4068.77,Booked
+823,561,1A,Premium Economy,7792.12,Booked
+824,429,1E,Premium Economy,8088.22,Booked
+825,409,1B,Premium Economy,7889.78,Booked
+826,10,1A,Economy,4336.06,Booked
+827,304,1A,Premium Economy,7876.1,Available
+828,121,1B,Economy,4351.26,Booked
+829,446,1A,Premium Economy,10898.08,Booked
+830,302,1A,Premium Economy,10013.07,Available
+831,738,1A,Economy,4565.59,Booked
+832,945,1A,Business,15069.0,Booked
+833,902,1B,Premium Economy,8992.68,Available
+834,693,1A,Business,14712.76,Available
+835,278,1A,Economy,5573.62,Booked
+836,536,1B,Economy,4982.81,Available
+837,331,1C,Economy,4911.88,Booked
+838,630,1A,Economy,4118.46,Booked
+839,911,1B,Economy,4200.49,Booked
+840,381,1A,Premium Economy,7879.16,Booked
+841,578,1B,Economy,4717.62,Booked
+842,666,1A,Premium Economy,9152.88,Booked
+843,170,1B,Premium Economy,9903.78,Booked
+844,145,1C,Economy,5804.11,Booked
+845,298,1D,Premium Economy,10114.69,Booked
+846,536,1C,Economy,4075.58,Booked
+847,702,1A,Economy,5597.08,Available
+848,210,1A,Economy,4365.95,Booked
+849,823,1C,Economy,5672.81,Booked
+850,629,1C,Economy,4734.06,Booked
+851,975,1B,Business,16533.57,Booked
+852,732,1B,Economy,5178.98,Available
+853,381,1B,Economy,5348.13,Booked
+854,532,1C,Economy,4842.95,Booked
+855,620,1D,Business,17109.96,Booked
+856,258,1A,Economy,4339.98,Available
+857,484,1B,Economy,4621.6,Booked
+858,474,1A,Economy,4167.24,Available
+859,216,1C,Economy,4081.43,Available
+860,959,1A,Premium Economy,10111.87,Booked
+861,339,1A,Economy,4119.17,Available
+862,950,1A,Business,17605.9,Available
+863,765,1A,Economy,4056.16,Booked
+864,738,1B,Economy,4747.55,Booked
+865,873,1A,Economy,5592.61,Booked
+866,951,1B,Premium Economy,7769.66,Booked
+867,139,1A,Economy,4085.63,Booked
+868,169,1A,Business,16358.57,Booked
+869,537,1A,Economy,4744.9,Available
+870,733,1B,Premium Economy,8965.01,Booked
+871,850,1A,Business,14926.01,Booked
+872,486,1A,Economy,4500.08,Booked
+873,11,1A,First,32331.01,Booked
+874,326,1C,Economy,5667.44,Available
+875,427,1A,Economy,5633.0,Booked
+876,184,1A,Economy,4566.35,Booked
+877,154,1C,Premium Economy,10924.33,Booked
+878,482,1C,Economy,4512.98,Available
+879,69,1B,Economy,5382.01,Booked
+880,6,1B,Economy,4589.74,Booked
+881,320,1B,Economy,4788.67,Booked
+882,719,1A,Business,18610.1,Available
+883,193,1A,First,26600.27,Booked
+884,205,1A,Economy,4424.58,Booked
+885,711,1A,Economy,5640.52,Booked
+886,97,1A,Economy,4864.16,Available
+887,551,1C,First,30391.39,Booked
+888,470,1B,Economy,5247.67,Available
+889,339,1B,Economy,5003.89,Booked
+890,97,1B,Economy,5332.66,Available
+891,63,1B,Economy,5756.41,Available
+892,640,1A,Premium Economy,10316.03,Available
+893,480,1A,Economy,4884.08,Booked
+894,609,1A,Business,18252.47,Booked
+895,161,1D,Economy,4602.42,Booked
+896,69,1C,Economy,4896.42,Booked
+897,359,1A,Economy,4864.18,Booked
+898,652,1B,Business,19234.4,Booked
+899,573,1A,Business,15972.71,Booked
+900,905,1A,Economy,4657.83,Booked
+901,232,1A,Business,17457.91,Booked
+902,354,1A,Business,16090.7,Booked
+903,644,1A,Business,13643.01,Booked
+904,15,1A,Economy,5071.31,Booked
+905,951,1C,Economy,5820.54,Booked
+906,198,1A,Premium Economy,10265.42,Available
+907,282,1A,Economy,5085.12,Booked
+908,292,1C,Business,14404.1,Booked
+909,841,1A,Economy,4492.26,Available
+910,934,1B,Premium Economy,10242.91,Available
+911,889,1A,Economy,5148.64,Booked
+912,437,1C,Premium Economy,9454.0,Available
+913,599,1B,Economy,4113.54,Available
+914,747,1A,Economy,4167.65,Booked
+915,314,1A,Economy,5706.31,Booked
+916,377,1A,Business,15489.05,Booked
+917,640,1B,Economy,5726.81,Booked
+918,786,1C,Economy,5388.45,Booked
+919,413,1B,First,28644.69,Booked
+920,957,1A,Economy,5171.82,Booked
+921,261,1A,Economy,5678.13,Booked
+922,575,1C,Economy,4659.52,Booked
+923,555,1B,Economy,4595.83,Available
+924,657,1A,Business,14458.87,Booked
+925,676,1B,Business,14479.54,Booked
+926,208,1B,Economy,5688.42,Available
+927,80,1C,Economy,5061.0,Booked
+928,607,1A,Economy,5309.75,Booked
+929,157,1A,Economy,5576.39,Booked
+930,106,1A,Economy,4254.05,Booked
+931,749,1B,Business,18955.11,Booked
+932,222,1A,Economy,4120.88,Booked
+933,287,1B,Business,16336.88,Booked
+934,183,1C,Economy,5430.85,Available
+935,270,1D,Economy,5827.99,Booked
+936,578,1C,Economy,4843.69,Booked
+937,105,1B,Economy,4855.2,Booked
+938,130,1C,Economy,4935.18,Booked
+939,817,1A,Premium Economy,8819.02,Available
+940,535,1A,Economy,4203.02,Available
+941,602,1A,Economy,4369.02,Booked
+942,661,1A,Economy,5269.27,Available
+943,785,1C,Business,14165.83,Booked
+944,393,1A,Business,19262.49,Booked
+945,339,1C,Economy,5191.6,Booked
+946,590,1C,Economy,5477.01,Booked
+947,791,1C,Premium Economy,8856.02,Booked
+948,874,1A,First,30741.2,Booked
+949,607,1B,Economy,5112.58,Available
+950,620,1E,First,29290.42,Booked
+951,284,1A,Economy,4974.16,Booked
+952,990,1A,First,35327.93,Booked
+953,827,1A,Economy,4623.42,Available
+954,755,1A,Economy,5218.93,Booked
+955,893,1B,Premium Economy,8544.59,Booked
+956,631,1B,First,28980.2,Available
+957,685,1C,Economy,5841.17,Booked
+958,932,1B,Premium Economy,9892.0,Booked
+959,485,1B,Economy,4106.47,Available
+960,215,1B,Business,19059.27,Booked
+961,173,1B,Economy,5082.57,Available
+962,3,1A,Economy,4409.36,Booked
+963,803,1C,Economy,4749.11,Booked
+964,238,1E,Premium Economy,8568.96,Booked
+965,222,1B,Economy,4710.23,Available
+966,94,1A,Economy,5838.58,Booked
+967,952,1A,Economy,5323.1,Booked
+968,823,1D,Economy,4673.23,Booked
+969,630,1B,Economy,4397.23,Booked
+970,151,1A,Economy,4199.95,Booked
+971,147,1B,Economy,5259.25,Booked
+972,169,1B,Business,18980.05,Booked
+973,487,1A,Business,18874.91,Booked
+974,896,1B,Economy,4281.35,Booked
+975,1,1A,Premium Economy,8476.07,Booked
+976,332,1B,Economy,4166.93,Available
+977,80,1D,Economy,4476.5,Booked
+978,918,1B,Economy,4185.74,Booked
+979,994,1A,Premium Economy,10154.11,Booked
+980,54,1A,Economy,5686.04,Booked
+981,141,1C,Economy,5098.96,Available
+982,524,1B,First,36054.03,Booked
+983,827,1B,Economy,4645.62,Available
+984,451,1A,Premium Economy,9732.72,Booked
+985,436,1E,Economy,4299.69,Booked
+986,681,1A,Business,19059.37,Booked
+987,484,1C,Economy,5342.86,Booked
+988,335,1B,Economy,4829.34,Booked
+989,310,1B,Premium Economy,8364.74,Available
+990,513,1A,Premium Economy,8965.46,Booked
+991,779,1B,Economy,4396.75,Booked
+992,121,1C,Business,17749.43,Booked
+993,247,1B,Economy,5321.29,Booked
+994,574,1B,Economy,5366.82,Booked
+995,403,1A,Economy,5599.62,Booked
+996,387,1B,Economy,4963.65,Booked
+997,793,1B,Economy,5803.54,Booked
+998,395,1A,Economy,5630.72,Booked
+999,724,1C,Economy,4390.82,Booked
+1000,486,1B,Economy,5421.0,Booked
