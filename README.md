@@ -84,3 +84,4 @@ full referential integrity (every foreign key in `flights`, `seats`,
 `bookings`, and `payments` resolves to a valid row in its parent table).
 "# FLIGHT_TICKET" 
 "# FLIGHT_TICKET" 
+"# FLIGHT_TICKET_MANAGEMENT-" 
