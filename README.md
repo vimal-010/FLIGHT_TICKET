@@ -83,3 +83,4 @@ Each table's CSV file contains **1000 synthetically generated rows** with
 full referential integrity (every foreign key in `flights`, `seats`,
 `bookings`, and `payments` resolves to a valid row in its parent table).
 "# FLIGHT_TICKET" 
+"# FLIGHT_TICKET" 
